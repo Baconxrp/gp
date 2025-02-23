@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[https://raw.githubusercontent.com/dogecoin/dogecoin/master/share/pixmaps/dogecoin256.svg](https://oldschool.runescape.wiki/images/Coins_1_detail.png)" alt="Dogecoin" width="256"/>
+<img src="https://oldschool.runescape.wiki/images/Coins_1_detail.png" alt="Dogecoin" width="256"/>
 <br/><br/>
 Gold Pieces Core [GP]  
 </h1>
