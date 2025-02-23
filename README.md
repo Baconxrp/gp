@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/dogecoin/dogecoin/master/share/pixmaps/dogecoin256.svg" alt="Dogecoin" width="256"/>
 <br/><br/>
-Dogecoin Core [DOGE, Ð]  
+Gold Pieces Core [GP]  
 </h1>
 
 **IMPORTANT: Starting August 2024, the `master` branch has become the primary
